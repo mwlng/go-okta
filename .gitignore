@@ -6,9 +6,8 @@
 .vscode
 .okta-aws
 
-*.go
-
 go-okta
 
-./target
-./build
+/*.go
+/target
+/build
